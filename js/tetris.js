@@ -21,7 +21,8 @@ var shapes = [
     [ 0, 1, 0, 0,
       1, 1, 1 ]
 ];
-var colors = ['yellow', 'yellow', 'yellow', 'yellow', 'yellow', 'yellow', 'yellow'];
+
+var colors = ['purple', 'purple', 'purple', 'purple', 'purple', 'purple', 'purple'];
 
 // アニメーション用の変数を追加
 var clearingRows = [];
