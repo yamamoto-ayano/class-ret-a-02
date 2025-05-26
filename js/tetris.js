@@ -21,6 +21,7 @@ var shapes = [
     [ 0, 1, 0, 0,
       1, 1, 1 ]
 ];
+
 var colors = ['purple', 'purple', 'purple', 'purple', 'purple', 'purple', 'purple'];
 
 // アニメーション用の変数を追加
